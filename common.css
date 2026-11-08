@@ -1,0 +1,48 @@
+body {
+  background-color: #FCF5D9;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #362A2B
+}
+
+h1, h2, h3 {
+  font-family: 'Platypi', serif;
+  color: #6E4B40
+}
+
+header {
+  text-align: center;
+}
+
+header p {
+  font-size: 18px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 56px;
+  margin-top: 0;
+}
+
+nav {
+  background-color: #E8AAAB;
+  border-radius: 16px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 65px;
+  margin-top: 45px;
+}
+
+nav a {
+  color: #362A2B;
+  text-decoration: none;
+}
+
+nav a[aria-current="page"] {
+  border-bottom: 3px solid #6E4B40;
+  padding-bottom: 5px;
+}
