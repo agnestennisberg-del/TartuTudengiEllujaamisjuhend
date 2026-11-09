@@ -1,0 +1,1 @@
+Tartu tudengi ellujäämisjuhend on loodud eelkõige Tartu Ülikooli esmakursuslastele ja uutele tudengitele. Veebilehe eesmärk on koondada ühte kohta tudengieluks vajalikud lingid, kasulikud nõuanded ning teave Tartu õppimis- ja ajaveetmisvõimaluste kohta, et muuta ülikoolieluga kohanemine lihtsamaks.
