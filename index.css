@@ -56,3 +56,61 @@
   margin-top: 0;
 }
 
+h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.quick-links {
+  margin-top: 70px;
+  margin-bottom: 80px;
+}
+
+.study-cards {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.study-cards section {
+  width: 420px;
+  height: 260px;
+  border-radius: 6px;
+  box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+  position: relative;
+}
+
+.study-cards img {
+  position: absolute;
+  top: -14%;
+  left: 5%;
+  width: 60px;
+}
+
+.study-cards button {
+  background-color: #E8AAAB;
+  color: #362A2B;
+  border-radius: 4px;
+  padding: 10px 20px;
+  border: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  cursor: pointer;
+}
+
+.study-cards button:hover {
+  background-color: #6E4B40;
+  color: #F7E4E7;
+}
+
+.study-cards section:first-child {
+  background-color: #F7E4E7;
+}
+
+.study-cards section:last-child {
+  background-color: #FFFDF2;
+}
